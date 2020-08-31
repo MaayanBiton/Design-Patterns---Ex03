@@ -1,4 +1,4 @@
-# Design-Patterns---Ex03
+# Design-Patterns---FacebookApp
 Implementing behavioral and structural patterns
 
 + GOALS:
@@ -27,3 +27,6 @@ Implementing behavioral and structural patterns
 3. Command
 
 All have a more in depth explanation in the word document
+
+<img src="facebookApp.png" width="700" height="500">
+
